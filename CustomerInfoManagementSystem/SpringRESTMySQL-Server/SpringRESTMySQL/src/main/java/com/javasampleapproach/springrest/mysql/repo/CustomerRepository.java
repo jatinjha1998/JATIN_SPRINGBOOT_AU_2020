@@ -1,4 +1,4 @@
-package com.javasampleapproach.springrest.postgresql.repo;
+package com.javasampleapproach.springrest.mysql.repo;
 
 import java.util.List;
 

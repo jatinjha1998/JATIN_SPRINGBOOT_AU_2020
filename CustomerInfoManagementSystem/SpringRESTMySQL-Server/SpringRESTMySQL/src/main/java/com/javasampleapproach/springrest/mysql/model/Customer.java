@@ -1,4 +1,4 @@
-package com.javasampleapproach.springrest.postgresql.model;
+package com.javasampleapproach.springrest.mysql.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

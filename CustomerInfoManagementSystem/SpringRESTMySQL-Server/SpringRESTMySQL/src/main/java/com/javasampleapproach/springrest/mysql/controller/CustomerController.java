@@ -1,4 +1,4 @@
-package com.javasampleapproach.springrest.postgresql.controller;
+package com.javasampleapproach.springrest.mysql.controller;
 
 import java.util.ArrayList;
 import java.util.List;

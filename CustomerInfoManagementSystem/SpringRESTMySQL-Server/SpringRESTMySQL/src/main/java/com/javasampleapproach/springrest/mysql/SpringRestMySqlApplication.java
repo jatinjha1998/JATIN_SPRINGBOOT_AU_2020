@@ -1,10 +1,10 @@
-package com.javasampleapproach.springrest.postgresql;
+package com.javasampleapproach.springrest.mysql;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringRestPostgreSqlApplication {
+public class SpringRestMySqlApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringRestPostgreSqlApplication.class, args);
